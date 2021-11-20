@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/simpleweb3/static/js/main.847a454c.chunk.js",
+    "main.js.map": "/simpleweb3/static/js/main.847a454c.chunk.js.map",
+    "runtime-main.js": "/simpleweb3/static/js/runtime-main.88841135.js",
+    "runtime-main.js.map": "/simpleweb3/static/js/runtime-main.88841135.js.map",
+    "static/js/2.991276db.chunk.js": "/simpleweb3/static/js/2.991276db.chunk.js",
+    "static/js/2.991276db.chunk.js.map": "/simpleweb3/static/js/2.991276db.chunk.js.map",
+    "static/js/3.6e026410.chunk.js": "/simpleweb3/static/js/3.6e026410.chunk.js",
+    "static/js/3.6e026410.chunk.js.map": "/simpleweb3/static/js/3.6e026410.chunk.js.map",
+    "index.html": "/simpleweb3/index.html",
+    "static/js/2.991276db.chunk.js.LICENSE.txt": "/simpleweb3/static/js/2.991276db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88841135.js",
+    "static/js/2.991276db.chunk.js",
+    "static/js/main.847a454c.chunk.js"
+  ]
+}
